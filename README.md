@@ -54,6 +54,9 @@ The __section__ classes are programming exercises. These come after each chapter
 - 5.20 Display prime numbers between 2 and 1,200
 
 ##### Comprehensive
+<details>
+<summary>Collection of comprehensive tasks (will not be done)</summary>
+<br>
 - 5.21 Financial application: compare loans with various interest raters
 - 5.22 Financial application. loan amortization schedule
 - 5.23 Demonstrate cancellation errors
@@ -85,6 +88,7 @@ The __section__ classes are programming exercises. These come after each chapter
 - 5.49 Count vowels and consonants
 - 5.50 Print multiplication table
 - 5.51 Longest common prefix
+</details>
 
 #### Listing
 
