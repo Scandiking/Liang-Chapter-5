@@ -32,26 +32,26 @@ The __section__ classes are programming exercises. These come after each chapter
 
 #### Section (programming exercises)
 
-- 5.1 Pass or fail
-- 5.2 Repeat multiplication
-- 5.3 Conversion from C° to F°
-- 5.4 Conversion from inch to centimeter
-- 5.5 Conversion from C° to F° and F° to C°
-- 5.6 Conversion from square meter to ping
-- 5.7 Financial application: compute future tuition
-- 5.8 Find the highest score
-- 5.9 Find the two lowest scores
-- 5.10 Find numbers divisible by 3 and 4
-- 5.11 Find numbers divisible by 3 or 4, but not both
-- 5.12 Find the smallest n such that n<sup>3</sup> > 12,000 
-- 5.13 Find the largest n such that n<sup>2</sup> < 12,000
-- 5.14 Compute the greatest common divisor
-- 5.15 Display the ASCII character table
-- 5.16 Find the factors of an integer
-- 5.17 Display pyramid
-- 5.18 Display four patterns using loops
-- 5.19 Display numbers in a pyramid pattern
-- 5.20 Display prime numbers between 2 and 1,200
+- 5.1 [Pass or fail](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_1.java)
+- 5.2 [Repeat multiplication](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_2.java)
+- 5.3 [Conversion from C° to F°](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_3.java)
+- 5.4 [Conversion from inch to centimeter](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_4.java)
+- 5.5 [Conversion from C° to F° and F° to C°](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_5.java)
+- 5.6 [Conversion from square meter to ping](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_6.java)
+- 5.7 [Financial application: compute future tuition](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_7.java)
+- 5.8 [Find the highest score](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_8.java)
+- 5.9 [Find the two lowest scores](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_9.java)
+- 5.10 [Find numbers divisible by 3 and 4](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_10.java)
+- 5.11 [Find numbers divisible by 3 or 4, but not both](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_11.java)
+- 5.12 [Find the smallest n such that n<sup>3</sup> > 12,000](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_12.java) 
+- 5.13 [Find the largest n such that n<sup>2</sup> < 12,000](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_13.java)
+- 5.14 [Compute the greatest common divisor](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_14.java)
+- 5.15 [Display the ASCII character table](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_15.java)
+- 5.16 [Find the factors of an integer](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_16.java)
+- 5.17 [Display pyramid](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_17.java)
+- 5.18 [Display four patterns using loops](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_18.java)
+- 5.19 [Display numbers in a pyramid pattern](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_19.java)
+- 5.20 [Display prime numbers between 2 and 1,200](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Section_5_20.java)
 
 ##### Comprehensive
 
