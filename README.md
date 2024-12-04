@@ -159,11 +159,11 @@ The __section__ classes are programming exercises. These come after each chapter
 
 #### Listing
 
-- 5.1 RepeatAdditionQuiz
-- 5.2 GuessNumberOneTime
-- 5.3 GuessNumber
-- 5.4 SubtractionQuizLoop
-- 5.5 SentinelValue
+- 5.1 [RepeatAdditionQuiz]()
+- 5.2 [GuessNumberOneTime]()
+- 5.3 [GuessNumber]()
+- 5.4 [SubtractionQuizLoop]()
+- 5.5 [SentinelValue]()
 - 5.6 TestDoWhile
 - 5.7 MultiplicationTable
 - 5.8 TestSum

@@ -54,45 +54,116 @@ The __section__ classes are programming exercises. These come after each chapter
 - 5.20 Display prime numbers between 2 and 1,200
 
 ##### Comprehensive
-- 5.21 Financial application: compare loans with various interest raters
-- 5.22 Financial application. loan amortization schedule
-- 5.23 Demonstrate cancellation errors
-- 5.24 Sum a series
-- 5.25 Compute π
-- 5.26 Compute e
-- 5.27 Display leap years
-- 5.28 Display the first day of each month
-- 5.29 Display calendars
-- 5.30 Financial application: compound value
-- 5.31 Financial application: compute CD value
-- 5.32 Game: lottery
-- 5.33 Perfect number
-- 5.34 Game: scissor, rock, paper
-- 5.35 Summation
-- 5.36 Business application: checking ISBN
-- 5.37 Decimal to binary
-- 5.38 Decimal to octal
-- 5.39 Financial application: find the sales amount
-- 5.40 Simulation: heads or tails
-- 5.41 Occurrence of max numbers
-- 5.42 Financial application: find the sales amount
-- 5.43 Math: combinations
-- 5.44 Computer architecture: bit-level operations
-- 5.45 Statistic: compute mean and standard deviation
-- 5.46 Reverse a string
-- 5.47 Business: check ISBN-13
-- 5.48 Process string
-- 5.49 Count vowels and consonants
-- 5.50 Print multiplication table
-- 5.51 Longest common prefix
+
+<details>
+<summary>
+    Additional tasks that won't be done
+</summary>
+<ul>
+    <li>
+        5.21 Financial application: compare loans with various interest raters
+    </li>
+    <li>
+        5.22 Financial application. loan amortization schedule
+    </li>
+    <li>
+        5.23 Demonstrate cancellation errors
+    </li>
+    <li>
+        5.24 Sum a series
+    </li>
+    <li>
+        5.25 Compute π
+    </li>
+    <li>
+        5.26 Compute e
+    </li>
+    <li>
+        5.27 Display leap years
+    </li>
+    <li>
+        5.28 Display the first day of each month
+    </li>
+    <li>
+        5.29 Display calendars
+    </li>
+    <li>
+        5.30 Financial application: compound value
+    </li>
+    <li>
+        5.31 Financial application: compute CD value
+    </li>
+    <li>
+        5.32 Game: lottery
+    </li>
+    <li>
+        5.33 Perfect number
+    </li>
+    <li>
+        5.34 Game: scissor, rock, paper
+    </li>
+    <li>
+        5.35 Summation
+    </li>
+    <li>
+        5.36 Business application: checking ISBN
+    </li>
+    <li>
+        5.37 Decimal to binary
+    </li>
+    <li>
+        5.38 Decimal to octal
+    </li>
+    <li>
+        5.39 Financial application: find the sales amount
+    </li>
+    <li>
+        5.40 Simulation: heads or tails
+    </li>
+    <li>
+        5.41 Occurrence of max numbers
+    </li>
+    <li>
+        5.42 Financial application: find the sales amount
+    </li>
+    <li>
+        5.43 Math: combinations
+    </li>
+    <li>
+        5.44 Computer architecture: bit-level operations
+    </li>
+    <li>
+        5.45 Statistic: compute mean and standard deviation
+    </li>
+    <li>
+        5.46 Reverse a string
+    </li>
+    <li>
+        5.47 Business: check ISBN-13
+    </li>
+    <li>
+        5.48 Process string
+    </li>
+    <li>
+        5.49 Count vowels and consonants
+    </li>
+    <li>
+        5.50 Print multiplication table
+    </li>
+    <li>
+        5.51 Longest common prefix
+    </li>
+</ul>
+
+</details>
 
 #### Listing
 
-- 5.1 RepeatAdditionQuiz
-- 5.2 GuessNumberOneTime
-- 5.3 GuessNumber
-- 5.4 SubtractionQuizLoop
-- 5.5 SentinelValue
+- 5.1 [RepeatAdditionQuiz]()
+- 5.2 [GuessNumberOneTime]()
+- 5.3 [GuessNumber]()
+- 5.4 [SubtractionQuizLoop]()
+- 5.5 [SentinelValue]()
 - 5.6 TestDoWhile
 - 5.7 MultiplicationTable
 - 5.8 TestSum
