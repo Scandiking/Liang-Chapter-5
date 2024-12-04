@@ -159,20 +159,20 @@ The __section__ classes are programming exercises. These come after each chapter
 
 #### Listing
 
-- 5.1 [RepeatAdditionQuiz]()
-- 5.2 [GuessNumberOneTime]()
-- 5.3 [GuessNumber]()
-- 5.4 [SubtractionQuizLoop]()
-- 5.5 [SentinelValue]()
-- 5.6 TestDoWhile
-- 5.7 MultiplicationTable
-- 5.8 TestSum
-- 5.9 GreatestCommonDivisor
-- 5.10 FutureTuition
-- 5.11 Dec2Hex
-- 5.12 TestBreak
-- 5.13 TestContinue
-- 5.14 Palindrome
-- 5.15 PrimeNumber
+- 5.1 [RepeatAdditionQuiz](https://github.com/Scandiking/Liang-Chapter-5/blob/master/RepeatAdditionQuiz.java)
+- 5.2 [GuessNumberOneTime](https://github.com/Scandiking/Liang-Chapter-5/blob/master/GuessNumberOneTime.java)
+- 5.3 [GuessNumber](https://github.com/Scandiking/Liang-Chapter-5/blob/master/GuessNumber.java)
+- 5.4 [SubtractionQuizLoop](https://github.com/Scandiking/Liang-Chapter-5/blob/master/SubtractionQuizLoop.java)
+- 5.5 [SentinelValue](https://github.com/Scandiking/Liang-Chapter-5/blob/master/SentinelValue.java)
+- 5.6 [TestDoWhile](https://github.com/Scandiking/Liang-Chapter-5/blob/master/TestDoWhile.java)
+- 5.7 [MultiplicationTable](https://github.com/Scandiking/Liang-Chapter-5/blob/master/MultiplicationTable.java)
+- 5.8 [TestSum](https://github.com/Scandiking/Liang-Chapter-5/blob/master/TestSum.java)
+- 5.9 [GreatestCommonDivisor](https://github.com/Scandiking/Liang-Chapter-5/blob/master/GreatestCommonDivisor.java)
+- 5.10 [FutureTuition](https://github.com/Scandiking/Liang-Chapter-5/blob/master/FutureTuition.java)
+- 5.11 [Dec2Hex](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Dec2Hex.java)
+- 5.12 [TestBreak](https://github.com/Scandiking/Liang-Chapter-5/blob/master/TestBreak.java)
+- 5.13 [TestContinue](https://github.com/Scandiking/Liang-Chapter-5/blob/master/TestContinue.java)
+- 5.14 [Palindrome](https://github.com/Scandiking/Liang-Chapter-5/blob/master/Palindrome.java)
+- 5.15 [PrimeNumber](https://github.com/Scandiking/Liang-Chapter-5/blob/master/PrimeNumber.java)
 
 [^1]: Liang, Y. D. (2020), _Introduction to Java Programming and Data Structures_. Pearson Education.
